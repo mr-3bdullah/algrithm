@@ -1,2 +1,3 @@
 # algrithm
-this repo have algorithm lesson
++ hi my name is abdullah , from egypt
++ this repo have algorithm lesson.
